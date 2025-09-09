@@ -52,10 +52,11 @@ regressao-linear-simples/
 ```
 
 ## 🚀 Instalação
+OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo caso esteja faltando alguma dependencia. É uma alternativa ao arquivo requirements.txt.
 
 ### Pré-requisitos
 
-- Python 3.7 ou superior
+- Python 3.12 ou superior
 - pip (gerenciador de pacotes do Python)
 
 ### Passos para instalação
@@ -75,7 +76,7 @@ pip install -r requirements.txt
 ## 🎯 Como Usar e Reproduzir
 
 ### Pré-requisitos
-- Python 3.7 ou superior
+- Python 3.12 ou superior
 - pip (gerenciador de pacotes do Python)
 
 ### Passo a Passo Completo
@@ -247,15 +248,6 @@ print(response.json())
 - Assume relação linear perfeita
 - Sensível a outliers
 - Não considera outros fatores que podem influenciar a pontuação
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-- Reportar bugs
-- Sugerir melhorias
-- Adicionar novas funcionalidades
-- Melhorar a documentação
 
 ## 📄 Licença
 
